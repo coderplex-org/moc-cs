@@ -5,4 +5,4 @@
 * CS50 Program Set 1:mario1; mario2.
 * CS50 Program Set 2:ceaser; vigenere.
 * mit-scheme introduction.
-* Git into and basic commands.
+* Git introduction and basic commands.
