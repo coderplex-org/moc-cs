@@ -10,3 +10,17 @@ CS50 PSET2:
  - Caesers
  
  Tower of Hanoi problem completed.
+
+### Day 02 (23/06/2017)
+
+- Basics of MIT scheme
+
+Topics covered :
+- Recursion using iteration
+- Exponentiation
+- Greatest common divisors
+
+- Basic understanding of Lambda Calculus
+
+
+
