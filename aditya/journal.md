@@ -16,7 +16,7 @@ CS50 PSET2:
 Basics of MIT scheme
 
 Topics covered :
-- Recursion using iteration
+- Iteration using recursion
 - Exponentiation
 - Greatest common divisors
 
